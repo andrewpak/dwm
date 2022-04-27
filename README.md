@@ -8,8 +8,7 @@ To install clone this repo then
 
 <br>
 
-The original dwm code before any patching is saved in dwm.c.og & config.def.h.og respectively, <br>
-The only change made before patching was changing MOD1 to MOD4.
+The original dwm code before any patching is saved in dwm.c.og & config.def.h.og respectively. 
 
 ## Patches applied
 
