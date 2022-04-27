@@ -13,3 +13,4 @@ The original dwm code before any patching is saved in dwm.c.og & config.def.h.og
 ## Patches applied
 
 * gaps
+* centered master
